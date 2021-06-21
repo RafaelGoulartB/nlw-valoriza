@@ -1,0 +1,11 @@
+{
+  "name": "nlw-valoriza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RafaelGoulartB/nlw-valoriza.git",
+  "author": "RafaelGoulartB <rafagoulartb@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
