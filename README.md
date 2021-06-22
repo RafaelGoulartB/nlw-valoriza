@@ -23,7 +23,7 @@
  </p>
 
 <div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
+  <sub>The NLW #4 project. Built with ❤︎ by
     <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
     <a href="https://github.com/RafaelGoulartB/nlw-valoriza/graphs/contributors">
       contributors
