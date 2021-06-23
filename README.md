@@ -66,8 +66,11 @@ $ cd nlw-valoriza
 # Install Dependencies
 $ yarn install
 
+# Run Migrations
+$ yarn typeorm migration:run
+
 # Run Aplication
-$ yarn start
+$ yarn run dev
 ```
 Access API at http://localhost:3333/
 
